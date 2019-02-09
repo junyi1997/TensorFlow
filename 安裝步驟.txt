@@ -1,0 +1,13 @@
+1.建立TensorFlow anaconda 虛擬環境
+  conda create --name tensorflow python=3.5 anaconda
+2.安裝TensorFlow CPU版本(需在啟動anaconda 虛擬環境下)
+  pip install tensorflow
+3.安裝Keras
+  pip install keras
+啟動
+  activate tensorflow
+關閉
+  Ctrl + C
+  deactivate
+啟動jupyter notebook
+  jupyter notebook
