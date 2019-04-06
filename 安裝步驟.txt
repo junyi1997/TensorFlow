@@ -6,8 +6,10 @@
   pip install keras
 ±Ò°Ê
   activate tensorflow
+  conda.bat activate tensorflow
 Ãö³¬
   Ctrl + C
   deactivate
+  conda deactivate
 ±Ò°Êjupyter notebook
   jupyter notebook
